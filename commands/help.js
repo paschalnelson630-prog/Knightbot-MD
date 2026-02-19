@@ -5,7 +5,7 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || 'VIC-KORD'}*  
    Version: *${settings.version || '3.0.0'}*
    by ${settings.botOwner || 'VIC-KORD'}
    BY MR GLADIATOR 
